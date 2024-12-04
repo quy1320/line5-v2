@@ -1,0 +1,66 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "E:/project/AVR/pxt-line5-main/include",
+                "E:/project/AVR/pxt-line5-main/src",
+                "C:/Users/Admin/.platformio/packages/framework-arduino-avr-minicore/libraries/EEPROM/src",
+                "E:/project/AVR/pxt-line5-main/.pio/libdeps/Upload_ISP/Adafruit SoftServo",
+                "E:/project/AVR/pxt-line5-main/.pio/libdeps/Upload_ISP/ArduinoJson/src",
+                "C:/Users/Admin/.platformio/packages/framework-arduino-avr-minicore/cores/MiniCore",
+                "C:/Users/Admin/.platformio/packages/framework-arduino-avr-minicore/variants/standard",
+                "C:/Users/Admin/.platformio/packages/framework-arduino-avr-minicore/libraries/AVR_examples/src",
+                "C:/Users/Admin/.platformio/packages/framework-arduino-avr-minicore/libraries/Flash/src",
+                "C:/Users/Admin/.platformio/packages/framework-arduino-avr-minicore/libraries/SPI/src",
+                "C:/Users/Admin/.platformio/packages/framework-arduino-avr-minicore/libraries/SPI1/src",
+                "C:/Users/Admin/.platformio/packages/framework-arduino-avr-minicore/libraries/SoftwareSerial/src",
+                "C:/Users/Admin/.platformio/packages/framework-arduino-avr-minicore/libraries/Wire/src",
+                "C:/Users/Admin/.platformio/packages/framework-arduino-avr-minicore/libraries/Wire1/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "E:/project/AVR/pxt-line5-main/include",
+                    "E:/project/AVR/pxt-line5-main/src",
+                    "C:/Users/Admin/.platformio/packages/framework-arduino-avr-minicore/libraries/EEPROM/src",
+                    "E:/project/AVR/pxt-line5-main/.pio/libdeps/Upload_ISP/Adafruit SoftServo",
+                    "E:/project/AVR/pxt-line5-main/.pio/libdeps/Upload_ISP/ArduinoJson/src",
+                    "C:/Users/Admin/.platformio/packages/framework-arduino-avr-minicore/cores/MiniCore",
+                    "C:/Users/Admin/.platformio/packages/framework-arduino-avr-minicore/variants/standard",
+                    "C:/Users/Admin/.platformio/packages/framework-arduino-avr-minicore/libraries/AVR_examples/src",
+                    "C:/Users/Admin/.platformio/packages/framework-arduino-avr-minicore/libraries/Flash/src",
+                    "C:/Users/Admin/.platformio/packages/framework-arduino-avr-minicore/libraries/SPI/src",
+                    "C:/Users/Admin/.platformio/packages/framework-arduino-avr-minicore/libraries/SPI1/src",
+                    "C:/Users/Admin/.platformio/packages/framework-arduino-avr-minicore/libraries/SoftwareSerial/src",
+                    "C:/Users/Admin/.platformio/packages/framework-arduino-avr-minicore/libraries/Wire/src",
+                    "C:/Users/Admin/.platformio/packages/framework-arduino-avr-minicore/libraries/Wire1/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60116",
+                "ARDUINO_AVR_ATmega8",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega8__",
+                ""
+            ],
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++17",
+            "compilerPath": "C:/Users/Admin/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega8",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
